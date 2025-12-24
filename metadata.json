@@ -1,0 +1,5 @@
+{
+  "name": "Copy of App Oficial - II Concurso Internacional de Galletas",
+  "description": "Aplicación oficial para el jurado del concurso de galletas navideñas. Permite la evaluación en tiempo real de los 4 participantes por parte de los 6 jueces, gestionando puntuaciones de 1 a 10 en 8 criterios técnicos y resolviendo desempates según las bases oficiales.",
+  "requestFramePermissions": []
+}
